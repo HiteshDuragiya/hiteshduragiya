@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hitesh-duragiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hitesh-duragiya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hitesh-duragiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-duragiya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26946703/hitesh-duragiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26946703/hitesh-duragiya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hitesh-duragiya-299471201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-duragiya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20516575/hitesh-duragiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26946703/hitesh-duragiya" height="30" width="40" /></a>
 <a href="https://instagram.com/hitesh_duragiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitesh_duragiya" height="30" width="40" /></a>
 </p>
 
